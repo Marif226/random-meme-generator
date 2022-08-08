@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+}
+
+#sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
